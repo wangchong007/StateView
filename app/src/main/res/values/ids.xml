@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="content_id" type="id" tools:ignore="ResourceName"/>
+    <item name="show_content" type="id" tools:ignore="ResourceName"/>
+    <item name="show_retry" type="id" tools:ignore="ResourceName"/>
+    <item name="show_empty" type="id" tools:ignore="ResourceName"/>
+    <item name="show_loading" type="id" tools:ignore="ResourceName"/>
+</resources>

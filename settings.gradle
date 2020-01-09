@@ -1,0 +1,2 @@
+include ':app', ':stateview'
+rootProject.name='Codoc'
