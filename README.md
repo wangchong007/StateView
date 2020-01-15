@@ -3,19 +3,6 @@
 
 ### Download : 
 
-1. project build.gradle:
-```
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        maven { url 'https://dl.bintray.com/peanut/maven'}
-    }
-}
-```
-
-2. app build.gradle:
-
 ```
 implementation 'com.peaut.stateview:StateView:0.1.0'
 ```
